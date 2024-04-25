@@ -1,0 +1,9 @@
+/LogCollector/mvnw.cmd
+/LogCollector/mvnw
+/Mock/mvnw
+/Mock/mvnw.cmd
+/Mock/Mock.iml
+/LogCollector/LogCollector.iml
+*/target/*
+/.idea/*
+*/.mvn/*
